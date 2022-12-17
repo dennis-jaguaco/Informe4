@@ -26,173 +26,228 @@ En un circuito con conexión en paralelo, se tiene otra cosa distinta al circuit
 
 ![](https://github.com/dennis-jaguaco/Informe4/blob/main/paralelo.jpg)
 
-
 ![](https://github.com/dennis-jaguaco/Informe4/blob/main/Capítulo7.png)
-
-#### Ley de Ohm
-
-Georg Simon Ohm creo la ley de Ohm, donde postula que el potencial de voltaje (V) de un conductor es la diferencia que se aprecia en sus extremos es directamente proporcional la corriente o intensidad de corriente (I) de ese conductor, además Ohm aumento a la ley la resistencia el cual es el factor inversamente proporcional a la corriente que fluye por el conductor.
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/leydeohm.png)
-
-#### La relación entre corriente y voltaje
-
-Dentro de un circuito que contiene fuentes de voltaje, corriente y resistencias (Circuito resistivo), la relación que exixte entre la corriente y el voltaje es directamnet proporcional, por tanto cuando una de las dos aumente o disminuya, se verán afectadas proporcionalmente
-
-#### La relación entre corriente y resistencia
-
-Dentro de un circuito resistivo, la corriente y resistencias tienen una relación que son inversamente proporcional por tanto cuando uno aumente, ya sea la corriente o la resistencia el otro va a disminuir.
-
-#### Energía y Potencia
-
-Se conoce a la energía como el trabajo que ejerce para convertir esta en luz, calor o alguna otra energía, en el caso de un resistor esta se covierte en calor, entonces se define a la energía como la materia que realizará un trabajo.
-
-La potencia es la relación existente entre el flujo de energía por alguna unidad de tiempo, es decir, la cantidad que se va a suministrar de energía o su vez es absorbida por un componente en un tiempo determinado. La potencia esta denominada por la letra P con su unidad de medida comunmente establecida en el sistema internacional el Watt (W).
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Capítulo3.png)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-#### 3-1
+#### 7-1 Identificación de relaciones en serie-paralelo
 
-2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos:
+2. Visualice y trace los siguientes circuitos en serie-paralelo:
+a. Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
+b. Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
 
-   Solución: Para este caso como se conoce los valores de V y R, se usa la fórmula de la ley de Ohm, que es la siguiente:
-   
-   * I= V/R
-   * En tal caso solo sería de reemplazar valores y ya se tendría el valor de la corriente I.
 
-4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
+4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/4.png)
+
+6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/6.png)
+
+#### 7-2 Análisis de circuitos resistivos en serie-paralelo
+
+8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667Ω. Uno de los resistores es de 1.0kΩ. ¿Cuál es el otro resistor?
+
+10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/4.png)
+
+12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/4.png)
+
+14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/14.png)
+
+16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/16.png)
+
+18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/14.png)
+
+20. Determine el voltaje, Vab, en la figura 7-69.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/20.png)
+
+22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC, RAD, RAE, RAF, y RAG).
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/22.png)
+
+24. Determine el valor de cada resistor mostrado en la figura 7-73.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/24.png)
+
+#### 7-3 Divisores de voltaje con cargas resistivas
+
+26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistoresde 3.3 kΩ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kΩ a la más alta de las salidas, ¿cuál será su valor con carga?
+
+28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kΩ conectada de A a B, ¿cuál es el voltaje de salida?
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/28.png)
+
+30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kΩ, ¿cuál es la corriente extraída?
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/28.png)
+
+32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1, V2 y V3) para cada posición del interruptor.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/32.png)
+
+34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los extremos de una carga de 1.0 kΩ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no debe exceder de 100 mA.
+
+#### 7-4 Efecto de carga de un voltímetro
+
+36. Determine la resistencia interna de un voltímetro de 20,000 Ω/V en cada uno de los siguientes ajustes de intervalo.
+a) 0.5 V 
+b) 1 V 
+c) 5 V 
+d) 50 V 
+e) 100 V 
+f) 1000 V
+
+38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b).
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/38.png)
+
+#### 7-5 Redes en escalera
+
+40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-78.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/40.png)
+
+42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/42.png)
+
+44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones:
+a) Interruptor SW2 conectado a 112 V y los demás conectados a tierra
+b) Interruptor SW1 conectado a 112 V y los demás conectados a tierra
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/44.png)
+
+#### 7-6 El puente Wheatstone
+
+46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: Rv = 18 kΩ y R2/R4 = 0.02. ¿Cuál es Rx?
+
+48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60 grados centigrados. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/48a.png)
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/48b.png)
+
+#### 7-7 Localización de fallas
+
+50. ¿Son correctas las lecturas del medidor mostrado en la figura 7-85?
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/50.png)
+
+52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/52.png)
+
+54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/54.png)
+
+#### 8-3 Conversiones de fuente
+
+2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-2.png)
+
+4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
+
+6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-6.png)
+
+#### 8-4 El teorema de superposición
+
+8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-8.png)
+
+10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-10.png)
+
+12. Repita el problema 11 si R2 es de 10 kΩ.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-12.png)
+
+14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-14.png)
+
+#### 8-5 Teorema de Thevenin
+
+16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-16.png)
+
+18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-18.png)
+
+20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-20.png)
+
+22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-22.png)
+
+#### 8-6 Teorema de Norton
+
+24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-24.png)
+
+26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuandoR8 = 8 kΩ.
+
+28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-28.png)
+
+#### 8-7 Teorema de transferencia de potencia máxima
+
+30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-30.png)
+
+32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-32.png)
+
+#### 8-8 Conversiones delta a Y (Δ a Y) y Y a Δ
+
+34. En la figura 8-88, convierta cada red delta en una red Y.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-34.png)
+
+36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-36.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
  Solución: Para este caso, se conoce V e I, entonces igual se usa la fórmula de la ley de Ohm, que es la siguiente:
    
    * R= V/I
    * En tal caso solo sería de reemplazar valores y ya se tendría el valor de la resistencia R.
-
-6. En cierto circuito, I= 5 mA cuando V= 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
-
-* En general tendran la misma resistencia, entonces hallamos dicha resistencia:
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6.png)
-
-* Esa resistencia de 200 Ohm se usara en el circuito, solo va a variar voltajes y corrientes.
-
-    a. V = 1.5 V
-    
-    ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6a.png)
-    
-    b. V = 2 V
-    
-    ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6b.png)
-    
-    c. V = 3 V
-    
-    ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6c.png)
-    
-    d. V = 4 V
-    
-    ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6d.png)
-    
-    e. V = 10 V
-    
-    ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6e.png)
-
-8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
- 
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio8.png)
-
-10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio10.png)
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio10abc.png)
-
-Solución: El circuito c tiene más corriente porque tiene 0.021 A, el que tiene menos corriente es el circuito a con 0.015 A.
-
-
-12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
- * Primero se debe hallar la resistencia, por eso usaremos la fórmula de la ley de Ohm. 
- 
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio12.png)
-   
-Solución: Ahora la fuente deberá ser de 30 Volts
-
-14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
-
-* Si presenta una relación directamente proporcional o también llamada relación lineal, ya que al incrementar el voltaje lo mismo sucede con la corriente.
-
-#### 3-2 Cálculo de la corriente
-
-16. Determine la corriente en cada caso: 
-
-* Se debe usar la fórmula de la ley de Ohm para todos los casos.
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio16.png)
-
-18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio18.png)
-
-20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio20.png)
-
-22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 V o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
-
-24. Calcule el voltaje para cada valor de I y R:
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio24a.png)
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio24b.png)
-
-26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio26.png)
-* Se emplea la ley de Ohm
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio26abc.png)
-
-28. Encuentre la resistencia de un reóstato para cada valor de V e I:
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio28.png)
-
-30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
-
-* Se aplica la fórmula de ley de Ohm
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio30.png)
-
-32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio32.png)
-
-* Se debe poner el amperíemtro en serie en el circuito para que de esa forma tengamos el valor de la corriente, de esa forma usemos la fórmula de Ohm R=V/I.
-
-34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 V.
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio34.png)
-
-36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
-
-* El foco fundido es el que se encuentra señalado en el circuito, es decir el paso 4.
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio36.png)
-
-#### 4-1 Energía y Potencia
-
-2. Demuestre que hay 3.6x10^6 joules en un kilowatt-hora.
-
-* P= energía/tiempo 
-* P= 3.6x10^6J/1H
-
-4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
-
-* 5h=18000s
-* P= energía/tiempo =7500J/18000s = 0.417 W
-
-6. Convierta las siguientes cantidades en kilowatts:
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio4-6.png)
-
-8. Convierta las siguientes cantidades en miliwatts:
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio4-8.png)
-
-10. Convierta las siguientes cantidades en watts:
 
 ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio4-10.png)
 
@@ -202,9 +257,9 @@ https://youtu.be/vLQGwh3pqZM
 
 ### 5. CONCLUSIONES
 
-* Se puede concluir mediante la resolución de los ejercicios que se comprueba la teoría aprendida sobre la ley de Ohm, puesto que se evidencia el desarrollo de los problemas resueltos durante el informe que fueron llevados a cabo de manera eficiente aplicando lo aprendido.
+* De este modo mediante la resolución de los ejercicios se comprueba los conceptos aprendidos en los capítulos sobre circuitos en serie-paralelo, teoremas y sus conversiones, donde se evidencia el desarrollo de los problemas resueltos durante el informe que fueron llevados a cabo de manera eficiente aplicando lo aprendido.
 
-* En en cada problema se detallo el procedimiento con su respectiva solución y explicación, siendo una manera mas sencilla y eficaz de comnprender que se empleo en cada literal establecido, por tanto se concluye que el capítulo 3 y 4 fueron analizados correctamente, de esa manera se llevo una adecuada elaboración del informe.
+* Concluyendo, cada problema se detallo el procedimiento con su solución y explicación, de esta forma se entiende los ejercicios facillmente y es eficaz para comnprender que se empleo en cada literal establecido, por tanto el capítulo 7 y 8 fueron analizados correctamente, donde se llevo una adecuada elaboración del informe.
 
 ### 6. BIBLIOGRAFÍA
 
