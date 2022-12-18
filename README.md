@@ -33,13 +33,25 @@ En un circuito con conexión en paralelo, se tiene otra cosa distinta al circuit
 #### 7-1 Identificación de relaciones en serie-paralelo
 
 2. Visualice y trace los siguientes circuitos en serie-paralelo:
-a. Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
-b. Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
 
+a. Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/resuelto2.png)
+
+b. Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/resuelto2b.png)
 
 4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
 
 ![](https://github.com/dennis-jaguaco/Informe4/blob/main/4.png)
+
+Solución: 
+
+a. En el circuito las resistencias R1 y R2 están en serie, mientras que R1, R3 y R4 en paralelo.
+
+b. Las resistencias R1, R2, R3 Y R4 se encuentran en paralelo.
+
+c. Las resistencias R1 y R2 están en serie, la resistencia R1 y R5 en paralelo, las resistencias  R3, R4, R5, R6 Y R7 en paralelo.
 
 6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.
 
