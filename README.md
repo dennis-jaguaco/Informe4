@@ -1,6 +1,6 @@
 # UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE"
 
-## Informe 2
+## Informe 4
 #### Nombre: Dennis Jaguaco
 #### NRC: 10067
 #### Materia: Fundamentos de Circuitos Eléctricos
@@ -16,7 +16,7 @@
 
 ### 2. MARCO TEÓRICO
 
-#### Circuitos en serie  y paralelo
+#### Circuitos en serie-paralelo, teoremas y conversiones
 
 Un circuito en serie va a tener todos los elementos están conectados de sus extremos a extremos, de esta forma se tendrá un solo camino para que la corriente fluya por medio del circuito. 
 
@@ -44,6 +44,7 @@ b. Una combinación serie de tres circuitos en paralelo, cada circuito con dos r
 4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
 
 ![](https://github.com/dennis-jaguaco/Informe4/blob/main/4.png)
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/resuelto4.png)
 
 Solución: 
 
@@ -56,30 +57,51 @@ c. Las resistencias R1 y R2 están en serie, la resistencia R1 y R5 en paralelo,
 6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.
 
 ![](https://github.com/dennis-jaguaco/Informe4/blob/main/6.png)
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/resuelto6.png)
+
+
 
 #### 7-2 Análisis de circuitos resistivos en serie-paralelo
 
 8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667Ω. Uno de los resistores es de 1.0kΩ. ¿Cuál es el otro resistor?
 
-10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
+Solución:
+El otro resistor se halla con la formula de resistencia en paralelo por lo que se tiene:
+
+1/RT=1/R1 + 1/R2
+1/667=1/R1 + 1/1000
+R1=2003 ohms
+
+10 Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
 
 ![](https://github.com/dennis-jaguaco/Informe4/blob/main/4.png)
+
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/resuelto10ab.png)
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/resuelto10c.png)
+
 
 12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje.
 
 ![](https://github.com/dennis-jaguaco/Informe4/blob/main/4.png)
 
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/resuelto10ab.png)
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/resuelto10c.png)
+
 14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
 
 ![](https://github.com/dennis-jaguaco/Informe4/blob/main/14.png)
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/resuelto14.png)
+
 
 16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
 
 ![](https://github.com/dennis-jaguaco/Informe4/blob/main/16.png)
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/resuelto16.jpg)
 
 18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.
 
 ![](https://github.com/dennis-jaguaco/Informe4/blob/main/14.png)
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/resuelto18.jpg)
 
 20. Determine el voltaje, Vab, en la figura 7-69.
 
@@ -92,7 +114,7 @@ c. Las resistencias R1 y R2 están en serie, la resistencia R1 y R5 en paralelo,
 24. Determine el valor de cada resistor mostrado en la figura 7-73.
 
 ![](https://github.com/dennis-jaguaco/Informe4/blob/main/24.png)
-
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/resuelto24.jpg)
 #### 7-3 Divisores de voltaje con cargas resistivas
 
 26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistoresde 3.3 kΩ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kΩ a la más alta de las salidas, ¿cuál será su valor con carga?
@@ -169,12 +191,14 @@ b) Interruptor SW1 conectado a 112 V y los demás conectados a tierra
 2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
 
 ![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-2.png)
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/resuelto8-2.png)
 
 4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
 
 6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
 
 ![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-6.png)
+![](https://github.com/dennis-jaguaco/Informe4/blob/main/resuelto8-6.jpg)
 
 #### 8-4 El teorema de superposición
 
