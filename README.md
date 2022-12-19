@@ -270,7 +270,7 @@ b) Interruptor SW1 conectado a 112 V y los demás conectados a tierra
 
 ### 4. VIDEO
 
-https://youtu.be/vLQGwh3pqZM
+https://youtu.be/uQysMXrVtC0
 
 ### 5. CONCLUSIONES
 
