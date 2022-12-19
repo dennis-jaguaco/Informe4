@@ -268,25 +268,6 @@ b) Interruptor SW1 conectado a 112 V y los demás conectados a tierra
 
 ![](https://github.com/dennis-jaguaco/Informe4/blob/main/8-36.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
- Solución: Para este caso, se conoce V e I, entonces igual se usa la fórmula de la ley de Ohm, que es la siguiente:
-   
-   * R= V/I
-   * En tal caso solo sería de reemplazar valores y ya se tendría el valor de la resistencia R.
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio4-10.png)
-
 ### 4. VIDEO
 
 https://youtu.be/vLQGwh3pqZM
